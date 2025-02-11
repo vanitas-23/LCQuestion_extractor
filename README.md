@@ -53,6 +53,4 @@ Saved to leetcode_6_mark_questions.xlsx
 - The User-Agent header is set to avoid request blocking by LeetCode.
 - Ensure a stable internet connection while running the script.
 
-## License
-This project is licensed under the MIT License.
 
